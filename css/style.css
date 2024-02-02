@@ -182,7 +182,6 @@ section{
 
 .section1 h1 {
     text-transform: uppercase;   
-    font-size: 58px;
     font-weight: 500;
     font-size: calc(2.6vw + 24px);
     padding: 20px;
